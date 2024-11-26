@@ -21,7 +21,7 @@
 4. 3Blue1Brown
     - [Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=msCiYaRg394tlvk5)
 
-### My Linear Algebra [Notes](/ML-Journey/1.%20Math/1.%20Linear%20Algebra/Linear%20Algebra%20-%20mazen.pdf) and [Code](/ML-Journey/1.%20Math/1.%20Linear%20Algebra/Linear%20algebra.ipynb)
+### My Linear Algebra [Notes](https://github.com/mazen-alasas/ML-Journey/blob/main/1.%20Math/1.%20Linear%20Algebra/Linear%20Algebra%20-%20mazen.pdf) and [Code](https://github.com/mazen-alasas/ML-Journey/blob/main/1.%20Math/1.%20Linear%20Algebra/Linear%20algebra.ipynb)
 ---
 
 <!-- # 2. Calculus (Differentiation) -->
