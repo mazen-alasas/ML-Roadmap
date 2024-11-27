@@ -19,7 +19,7 @@
         <td> </td>
     </tr>
     <tr>
-        <td> Dr. Hatem elattar     </td>
+        <td> Dr. Hatem Elattar     </td>
         <td> <a href = "https://youtube.com/playlist?list=PLJM7jJIw2GC1YBTTSGbFIlBxzY1aUmmJQ&si=grdtfbVqIVfTO1oD"> Youtube Playlist </a> </td>
         <td> </td>
         <td> </td>
