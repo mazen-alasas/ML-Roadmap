@@ -1,4 +1,4 @@
-# My Differentiation [Notes](https://github.com/mazen-alasas/ML-Journey/blob/main/1.%20Math/2.%20Calculus/1.%20Differentiation/Differentiation.pdf) and [Code]()
+# My Differentiation [Notes](https://github.com/mazen-alasas/ML-Journey/blob/main/1.%20Math/2.%20Calculus/1.%20Differentiation/Differentiation.pdf) and **Code**
 
 
 <table style="width:100%">
@@ -34,7 +34,8 @@
     </tr>
     <tr>
         <td> Dr. Mervat Mikhail    </td>
-        <td> <a href = "https://youtube.com/playlist?list=PL7snZ0LSsq3h6FiW5jXaoBLIA2pXaMLsv&si=Y5NzSwLMhvlitiHP"> Youtube Playlist</a> </td>
+        <td> <a href = "https://youtube.com/playlist?list=PL7snZ0LSsq3h6FiW5jXaoBLIA2pXaMLsv&si=Y5NzSwLMhvlitiHP"> - Defferentiation Playlist </a> <br>
+        <a href = "https://www.youtube.com/playlist?list=PL7snZ0LSsq3iVcQIRah2WLfRKNxBD8PCT"> - Integration Playlist </a> </td>
         <td> </td>
         <td> </td>
     </tr>
@@ -71,4 +72,4 @@
 <br>
 
 # مدة أي مصدر منهم في المذكرة متوقفه عليك (المدة اللي بتذاكرها والكمية) 
-# =: لو عندك وقت فأنا بفضل قناة [anaHr]()
+# =: لو عندك وقت فأنا بفضل قناة **anaHr**
