@@ -11,10 +11,16 @@
         <th> Certificates / Awards </th>
     </tr>
     <tr>
-        <td rowspan = "4"> Free    </td>
-        <td rowspan = "3"> Arabic  </td>
+        <td rowspan = "5"> Free    </td>
+        <td rowspan = "4"> Arabic  </td>
         <td> Dr. Hatem Elattar     </td>
         <td> <a href = "https://youtube.com/playlist?list=PLJM7jJIw2GC2Ihr__bRSeMxzsiFMZEsx7&si=hQg1e97_zeqWDvcL"> Youtube Playlist </a> </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td> Dr. Mostafa Elhosseini ( 👌 برفكتو )</td>
+        <td> <a href = "https://www.youtube.com/playlist?list=PL-cKUB-e2KiuXuUQ9POZoayIOV2oOs5GL"> Youtube Playlist </a> </td>
         <td> </td>
         <td> </td>
     </tr>
@@ -61,3 +67,4 @@
 <br>
 
 # مدة أي مصدر منهم في المذكرة متوقفه عليك (المدة اللي بتذاكرها والكمية) 
+# =: لو عندك وقت فأنا بفضل **Dr. Mostafa Elhosseini** موجه أكتر للتراك بتاعنا بالنسبة للمصادر العربية
