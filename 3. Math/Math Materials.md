@@ -9,14 +9,16 @@
 <br>
 <br>
 
-# الماتيريال :
-1. **Linear Algebra (الجبر الخطي)** 
-    - [Linear Algebra Materials](https://github.com/mazen-alasas/ML-Journey/blob/main/3.%20Math/1.%20Linear%20Algebra/Linear%20Algebra%20Materials.md) 
-2. **Calculus (التفاضل والتكامل)**
-    - [Calculus Materials](https://github.com/mazen-alasas/ML-Journey/blob/main/3.%20Math/2.%20Calculus/Calculus%20Materials.md)
-3. **Probability and Statistics (الاحتمالات والإحصاء)**
-    - [Probability & Statistics Materials](https://github.com/mazen-alasas/ML-Journey/blob/main/3.%20Math/3.%20Probability/Probability%20Materials.md)
+## 1. **Linear Algebra (الجبر الخطي)** 
+- [Linear Algebra Materials](https://github.com/mazen-alasas/ML-Journey/blob/main/3.%20Math/1.%20Linear%20Algebra/Linear%20Algebra%20Materials.md) 
+## 2. **Calculus (التفاضل والتكامل)**
+- [Calculus Materials](https://github.com/mazen-alasas/ML-Journey/blob/main/3.%20Math/2.%20Calculus/Calculus%20Materials.md)
+## 3. **Probability and Statistics (الاحتمالات والإحصاء)**
+- [Probability & Statistics Materials](https://github.com/mazen-alasas/ML-Journey/blob/main/3.%20Math/3.%20Probability/Probability%20Materials.md)
   
+<br>
+<br>
+
 ## الترشيحات اللي في كل فرع فيها شرح مفصل لأغلب المواضيع اللي هتحتاجها في كل فرع ..
 
 ### لو عندك Background قوية في الرياضيات من الكلية اعتقد ممكن تعدي المرحلة دي والأحوط انك تاخد crash course كدا علشان يربط اللي متعلمه بالـ Python ..
