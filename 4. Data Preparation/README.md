@@ -27,8 +27,6 @@
        1. [Data Preprocessing Overview](https://youtu.be/Zo7WcAkPIo0?si=siFFIQ1yQgOb8ubP) (شرح الجزي النظري)
        2. [Data Preprocessing With Code](https://youtu.be/LHN4w1HoPqI?si=JRx6pPfx2EEwcJb3) (إزاي بالكود)
 - ### in **English**
-    - [StatQuest: Data Cleaning](https://www.youtube.com/statquest)
-    - [Simplilearn: Data Preprocessing](https://www.youtube.com/simplilearn)  
     - [Siddhardhan](https://www.youtube.com/playlist?list=PLfFghEzKVmjuUzJtZkI38zqMEKb1yCH91)  
 
 
